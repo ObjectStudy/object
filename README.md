@@ -42,10 +42,6 @@
 3. [2주차 (3/3)](https://youtu.be/FmLUSQOJohc)
 
 ### 3주차 
-* [클린 코더스 강의 15.1. DIP(Dependency Inversion Principle) 25분](https://www.youtube.com/watch?v=mI1PsrgogCw&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=19) 
-* [클린 코더스 강의 15.2. SOLID Case Study 31분](https://www.youtube.com/watch?v=SaycTFHwpYQ&list=PL7pUrjEGbG8ZMPQ-XukPJsFyMeyvtGcnV&index=20) 
-
-### 4주차 
 [코드스피츠 83 오브젝트 - 1회차(1) 1시간](https://www.youtube.com/watch?v=sWyZUzQW3IM)
 
 코드 보며 토론하기
@@ -53,13 +49,21 @@
 [Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter01)
 [Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter01.playground)
 
-### 5주차 
+### 4주차 
 [코드스피츠 83 오브젝트 - 1회차(2) 1시간](https://www.youtube.com/watch?v=navJTjZlUGk&)
 
 코드 보며 토론하기
 
 [Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter02)
 [Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter02.playground)
+
+
+### 5주차
+
+코드로 익히지 않으면 금방 잊어버릴 수 있습니다.
+
+2인 1조로 같은 주제에 대해서 미니프로젝트를 진행합니다.
+
 
 ### 6주차 
 [코드스피츠 83 오브젝트 - 3회차 1시간 10분](https://youtu.be/Qa3dRrSbeQI?t=4297)
@@ -105,12 +109,9 @@
 [Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter09)
 [Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter09.playground)
 
-### 11주차 
-코드 보며 토론하기
+### 11주차, 12주차 
 
-[Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter10)
-[Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter10.playground)
+코드로 익히지 않으면 금방 잊어버릴 수 있습니다.
 
-### 12주차 
+2인 1조로 같은 주제에 대해서 미니프로젝트를 진행합니다.
 
-총 정리
