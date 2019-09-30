@@ -49,6 +49,11 @@
 [Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter01)
 [Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter01.playground)
 
+스터디 내용
+1. [3주차 (1/3)](https://youtu.be/LHVQMNgOpUw)
+2. [3주차 (2/3)](https://youtu.be/qaM_zz4k6Ts)
+3. [3주차 (3/3)](https://youtu.be/u-YRqLLOcIk)
+
 ### 4주차 
 [코드스피츠 83 오브젝트 - 1회차(2) 1시간](https://www.youtube.com/watch?v=navJTjZlUGk&)
 
