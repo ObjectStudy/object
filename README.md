@@ -64,9 +64,9 @@
 
 
 스터디 내용
-1. [3주차 (1/3)](https://youtu.be/LHVQMNgOpUw)
-2. [3주차 (2/3)](https://youtu.be/qaM_zz4k6Ts)
-3. [3주차 (3/3)](https://youtu.be/u-YRqLLOcIk)
+1. [4주차 (1/3)](https://youtu.be/kuVTknKgpP0)
+2. [4주차 (2/3)](https://youtu.be/lI_5o9wbX64)
+3. [4주차 (3/3)](https://youtu.be/z5FxF45cgZU)
 
 ### 5주차
 
