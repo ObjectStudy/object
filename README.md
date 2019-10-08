@@ -63,7 +63,20 @@
 [Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter02.playground)
 
 
+스터디 내용
+1. [3주차 (1/3)](https://youtu.be/LHVQMNgOpUw)
+2. [3주차 (2/3)](https://youtu.be/qaM_zz4k6Ts)
+3. [3주차 (3/3)](https://youtu.be/u-YRqLLOcIk)
+
 ### 5주차
+
+코드로 익히지 않으면 금방 잊어버릴 수 있습니다.
+
+2인 1조로 같은 주제에 대해서 미니프로젝트를 진행합니다.
+
+
+
+### 6주차 
 
 [코드스피츠 83 오브젝트 - 3회차 1시간 10분](https://youtu.be/Qa3dRrSbeQI?t=4297)
 
@@ -72,13 +85,6 @@
 [Java, Kotlin](https://github.com/ObjectStudy/object/tree/master/chapter04)
 [Swift](https://github.com/ObjectStudy/object/tree/master/Swift/Chapter04.playground)
 
-
-
-### 6주차 
-
-코드로 익히지 않으면 금방 잊어버릴 수 있습니다.
-
-2인 1조로 같은 주제에 대해서 미니프로젝트를 진행합니다.
 
 ### 7주차 
 [코드스피츠 83 오브젝트 - 50분](https://youtu.be/Qa3dRrSbeQI?t=4297)
