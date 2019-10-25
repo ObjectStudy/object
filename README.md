@@ -72,18 +72,18 @@
 
 ### 5주차
 
-코드로 익히지 않으면 금방 잊어버릴 수 있습니다.
+[코드스피츠 83 오브젝트 - 2회차 2시간](https://www.youtube.com/watch?v=ex6kP_b7Ypk&list=PLBNdLLaRx_rI-UsVIGeWX_iv-e8cxpLxS&index=3)
 
-2인1조로 페어 프로그래밍을 진행합니다!
-
-책의 예제에서 나오는 영화예매를 만들어라!
-
-"협력이라는 문맥은 주어지며 책임을 구현하시오!"
-(책임을 명확히 분류할 수 있어야 합니다.)
+스터디 내용
+1. [5주차 (1/5)](https://youtu.be/0QLS5NmOhDU)
+2. [5주차 (2/5)](https://youtu.be/GfPZ0Uq3BTA)
+3. [5주차 (3/5)](https://www.youtube.com/watch?v=MQ1SvRErA_Y&feature=youtu.be)
+3. [5주차 (4/5)](https://www.youtube.com/watch?v=dSFuEIWVXhk&feature=youtu.be)
+3. [5주차 (5/5)](https://www.youtube.com/watch?v=s2nbBQUSzQo&feature=youtu.be)
 
 ### 6주차 
 
-[코드스피츠 83 오브젝트 - 3회차 1시간 10분](https://youtu.be/Qa3dRrSbeQI?t=4297)
+[코드스피츠 83 오브젝트 - 3회차 1시간 48분](https://www.youtube.com/watch?v=Qa3dRrSbeQI&feature=youtu.be&t=4297)
 
 코드 보며 토론하기
 
